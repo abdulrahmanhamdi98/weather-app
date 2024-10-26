@@ -1,4 +1,3 @@
-// src/Weather.js
 import React, { useState } from 'react';
 import './Weather.css';
 
