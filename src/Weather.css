@@ -1,0 +1,33 @@
+/* src/Weather.css */
+.weather-container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.search-bar {
+    margin: 20px 0;
+}
+
+.search-bar input {
+    padding: 8px;
+    font-size: 1rem;
+    width: 70%;
+}
+
+.search-bar button {
+    padding: 8px;
+    font-size: 1rem;
+    margin-left: 5px;
+}
+
+.weather-info {
+    background: #e3f2fd;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.error {
+    color: red;
+}
